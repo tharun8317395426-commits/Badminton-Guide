@@ -1,0 +1,14 @@
+{
+  "name": "badminton-guide",
+  "version": "1.0.0",
+  "description": "Badminton Guide - mini web project",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0",
+    "mongodb": "^6.10.0"
+  }
+}
